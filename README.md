@@ -4,8 +4,6 @@ Hedef A101 online alışveriş sayfasında sipariş oluşturmak.
 
 ## Video
 
-https://use
-
 https://user-images.githubusercontent.com/57863133/191795880-9db4c09c-67da-4576-bfff-d92616c46033.mp4
 
 
