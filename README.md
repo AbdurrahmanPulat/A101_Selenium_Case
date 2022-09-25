@@ -36,7 +36,7 @@ Sayfa Nesnesi, test bakımını geliştirmek ve kod tekrarını azaltmak için t
 * Test kodu ile yer belirleyiciler ve düzen gibi sayfaya özel kodlar arasında net bir ayrım vardır.
 
 ## Senaryo
-Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak test otomasyonuyapılacak.
+Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak test otomasyonu yapılacak.
 
 - Senaryoya üye kaydı oluşturmadan devam edilecek.
 - Giyim--> Aksesuar--> Kadın İç Giyim-->Dizaltı Çorap bölümüne girilir.
