@@ -1,4 +1,6 @@
 # A101_Selenium_Case
+<a href="https://selenium.dev"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="180" alt="Selenium"/></a>
+
 # Hedef
 Hedef A101 online alışveriş sayfasında sipariş oluşturmak.
 
